@@ -1,0 +1,19 @@
+2024-03-02 04:53:19.059 [info] Extension host with pid 16721 started
+2024-03-02 04:53:19.059 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/-ec7c57c/vscode.lock'
+2024-03-02 04:53:19.068 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-ec7c57c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-03-02 04:53:19.070 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-ec7c57c/vscode.lock': The lock does not look stale, elapsed: 76 ms, giving up.
+2024-03-02 04:53:19.094 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-ec7c57c-1/vscode.lock': Lock acquired.
+2024-03-02 04:53:25.942 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-03-02 04:53:25.943 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-03-02 04:53:25.944 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-03-02 04:53:25.944 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-03-02 04:53:25.944 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-02 04:53:25.945 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-02 04:53:26.210 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-03-02 04:53:26.210 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-03-02 04:53:26.210 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-03-02 04:53:26.214 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-03-02 04:53:26.214 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-03-02 04:53:26.993 [info] Extension host terminating: received terminate message from renderer
+2024-03-02 04:53:26.994 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-ec7c57c-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-02 04:53:26.998 [info] Extension host with pid 16721 exiting with code 0

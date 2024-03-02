@@ -1,0 +1,7 @@
+[user]
+	name = Mizuki135
+	email = tefutefu.chouchou@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
